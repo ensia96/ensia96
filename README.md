@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ensia96@gmail.com)](mailto:ensia96@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005786230677)](https://www.facebook.com/profile.php?id=100005786230677)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&link=https://www.instagram.com/ensia96/)](https://www.instagram.com/ensia96/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ensia96/)](https://www.linkedin.com/in/ensia96/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://www.notion.so/ensia96/3c41973085294a0fa376c9eea277cf91)](https://www.notion.so/ensia96/3c41973085294a0fa376c9eea277cf91)
 -->
 
