@@ -1,6 +1,9 @@
 # 안녕하세요! 👋😝
 
 ### 아름다운 코드를 추구하고, 배움과 소통을 사랑하는 백엔드 개발자, 춤추는 망고입니다 !
+( GitHub 가 Dark Mode 를 지원하기 시작했습니다... 프로필을 편하게 보시려면, Light Mode 로 전환해주세요 ㅜㅠ )
+
+<br>
 
 | ![Most Used Language Stats](https://img.shields.io/badge/Most%20Used%20Language%20Stats-rgba(255,255,255,0)?style=for-the-badge) | ![PYTHON](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3776AB?style=for-the-badge&logo=Python&logoColor=3776AB&colorA=333333) | ![JAVASCRIPT](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&colorA=333333) |
 |:-:|-|-|
