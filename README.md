@@ -1,22 +1,23 @@
-# 안녕하세요! 👋😝
+<div align='center'>
 
-### 아름다운 코드를 추구하고, 배움과 소통을 사랑하는 백엔드 개발자, 춤추는 망고입니다 !
-( GitHub 가 Dark Mode 를 지원하기 시작했습니다... 프로필을 편하게 보시려면, Light Mode 로 전환해주세요 ㅜㅠ )
+## 안녕하세요, 춤추는망고입니다~
 
-<br>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fensia96%2Fhit-counter&count_bg=%23FFCD00&title_bg=%23706F2C&icon=&icon_color=%23E7E7E7&title=조회수(오늘/전체)&edge_flat=false)  
+[![블로그 프로필](https://img.shields.io/badge/블로그%20프로필-ffcd00?style=flat-square&logo=AngelList&logoColor=black)](https://ensia96.github.io/about)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ensia96@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ensia96/)
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005786230677)
 
-| ![Most Used Language Stats](https://img.shields.io/badge/Most%20Used%20Language%20Stats-rgba(255,255,255,0)?style=for-the-badge) | ![PYTHON](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3776AB?style=for-the-badge&logo=Python&logoColor=3776AB&colorA=333333) | ![JAVASCRIPT](https://img.shields.io/badge/-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&colorA=333333) |
-|:-:|-|-|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensia96&layout=compact&exclude_repo=ensia96.github.io&langs_count=4) | ![DocumentTyping](https://img.shields.io/badge/DocumentTyping-rgba(255,255,255,0)?style=for-the-badge) <br> ![Client Side](https://img.shields.io/badge/Client%20Side-rgba(255,255,255,0)?style=for-the-badge) <br> ![Server Side](https://img.shields.io/badge/Server%20Side-rgba(255,255,255,0)?style=for-the-badge) <br> ![DataBase](https://img.shields.io/badge/DataBase-rgba(255,255,255,0)?style=for-the-badge) <br> ![Infra](https://img.shields.io/badge/Infra-rgba(255,255,255,0)?style=for-the-badge) | ![MarkDown](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=MarkDown&logoColor=000000) ![HTML5](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=HTML5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=CSS3&logoColor=1572B6) <br> ![React](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=React&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Redux&logoColor=764ABC) ![Expo](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Expo&logoColor=000020) <br> ![Node.Js](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Node.js&logoColor=339933) ![GraphQL](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=GraphQL&logoColor=E10098 ) ![Django](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Django&logoColor=092E20) <br> ![MySQL](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=MySQL&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=MongoDB&logoColor=47A248) <br> ![Amazon AWS](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Amazon%20AWS&logoColor=232F3E) ![Docker](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Docker&logoColor=2496ED) |
+#### 자주 사용하는 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensia96&layout=compact&exclude_repo=ensia96.github.io&langs_count=4)
 
-| ![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-rgba(255,255,255,0)?style=for-the-badge) | [![Dancing Mango's github stats](https://github-readme-stats.vercel.app/api?username=ensia96&count_private=true&show_icons=true&theme=gruvbox&locale=kr)](https://github.com/ensia96) |
-|:-:|:-:|
-| ![Utility Tools](https://img.shields.io/badge/Utility%20Tools-rgba(255,255,255,0)?style=for-the-badge) | ![Slack](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Slack&logoColor=4A154B) ![Notion](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Notion&logoColor=000000) ![Trello](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Trello&logoColor=0079BF) ![Vim](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Vim&logoColor=019733) ![NeoVim](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=NeoVim&logoColor=57A143) ![Visual Studio Code](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) ![PostMan](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=PostMan&logoColor=FF6C37) ![GitKraken](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=GitKraken&logoColor=179287) ![GitHub](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=GitHub&logoColor=181717) ![Anaconda](https://img.shields.io/badge/--rgba(255,255,255,0)?style=for-the-badge&logo=Anaconda&logoColor=42B029) |
-| ![Contact & Social](https://img.shields.io/badge/Contact%20&%20Social-rgba(255,255,255,0)?style=for-the-badge) | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ensia96@gmail.com)](mailto:ensia96@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ensia96/)](https://www.linkedin.com/in/ensia96/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005786230677)](https://www.facebook.com/profile.php?id=100005786230677) |
+#### solved.ac 프로필
+[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ensia96)](https://solved.ac/ensia96/)
 
-| 느려도 멈추지 않고 | 어떤 문제든 체계적으로 | 작은 시도들을 큰 결과로 |
-|-|-|-|
-| [![my_project](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=my_project)](https://github.com/ensia96/my_project) | [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=Algorithm)](https://github.com/ensia96/Algorithm) | [![OpenSource](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=OpenSource)](https://github.com/ensia96/OpenSource) |
+#### GitHub 통계
+[![Dancing Mango's github stats](https://github-readme-stats.vercel.app/api?username=ensia96&count_private=true&show_icons=true&theme=gruvbox&locale=kr)](https://github.com/ensia96)
+
+</div>
 
 <!--
 ### 😝 Hi there 👋
@@ -79,5 +80,10 @@ Here are some ideas to get you started:
 [![my_project](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=my_project)](https://github.com/ensia96/my_project)
 ### `부족한 사고력 충전!`
 [![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=Algorithm)](https://github.com/ensia96/Algorithm)
+
+[![my_project](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=my_project)](https://github.com/ensia96/my_project)
+[![Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=Algorithm)](https://github.com/ensia96/Algorithm)
+[![OpenSource](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=OpenSource)](https://github.com/ensia96/OpenSource)
+[![ensia96.github.io](https://github-readme-stats.vercel.app/api/pin/?username=ensia96&repo=ensia96.github.io)](https://github.com/ensia96/ensia96.github.io)
 
 -->
