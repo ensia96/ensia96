@@ -2,7 +2,6 @@
 
 ## 안녕하세요, 춤추는망고입니다~
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fensia96%2Fhit-counter&count_bg=%23FFCD00&title_bg=%23706F2C&icon=&icon_color=%23E7E7E7&title=조회수(오늘/전체)&edge_flat=false)  
 [![블로그 프로필](https://img.shields.io/badge/블로그%20프로필-ffcd00?style=flat-square&logo=AngelList&logoColor=black)](https://ensia96.github.io/about)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ensia96@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ensia96/)
