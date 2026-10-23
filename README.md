@@ -12,7 +12,7 @@
 
 ##### Baekjoon Online Judge (acmicpc)
 
-- [Platinum III, 2,559문제 해결, 최장 스트릭 1708일](https://solved.ac/profile/ensia96)
+- [Platinum III, 2,559문제 해결, 최장 스트릭 1,708일](https://solved.ac/profile/ensia96)
 - solved.ac 기준 전체 랭킹 [3,058위](https://solved.ac/ranking/tier?page=62), 스트릭 랭킹 [19위](https://solved.ac/ranking/streak?page=1) 달성
 
 ##### LeetCode
